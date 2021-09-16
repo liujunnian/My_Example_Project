@@ -1,9 +1,0 @@
-#ifndef ALKAJFDGJALDKFJS 
-#define ALKAJFDGJALDKFJS
-
-123
-
-456
-789
-
-#endif
